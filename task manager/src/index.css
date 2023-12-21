@@ -1,0 +1,12 @@
+@font-face {
+	font-family: "Yekan";
+	src: url(./assets/font/Qs_Iranyekan.ttf);
+	font-weight: normal;
+	font-style: normal;
+	text-rendering: auto;
+	font-display: auto;
+}
+
+body {
+	font-family: "Yekan" !important;
+}
